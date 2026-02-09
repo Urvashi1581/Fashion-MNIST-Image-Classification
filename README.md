@@ -26,9 +26,10 @@ Fashion MNIST consists of 70,000 grayscale images (28x28) across 10 fashion cate
 - Improved performance through spatial feature extraction using convolution and pooling layers.
 
 ## Sample Output
+1. Dense Neural Network 
 <img width="1374" height="793" alt="image" src="https://github.com/user-attachments/assets/756ef1fe-3ed0-4a52-8566-da76f803f8f4" />
 
-
+2. Convolutional Neural Network (CNN)
 <img width="1016" height="808" alt="image" src="https://github.com/user-attachments/assets/95835bf9-19f4-43b3-8d74-dd6ac7694ccb" />
 
 
